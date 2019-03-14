@@ -1,1 +1,4 @@
+spring:
+  application:
+    name: foo
 profile:dev-1.0
