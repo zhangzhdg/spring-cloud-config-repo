@@ -1,4 +1,4 @@
 spring:
   application:
     name: foo
-profile: dev-1.0
+profile: dev-1.1
